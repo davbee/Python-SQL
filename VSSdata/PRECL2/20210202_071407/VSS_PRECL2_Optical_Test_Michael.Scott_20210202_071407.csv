@@ -1,0 +1,2 @@
+Mode,freq,E,Cav,dTlatency,Trise,dTrise,dTfire,Tpeak,Peak,µ,Sigma,%Sigma/µ,%ssError,|%ssError| > 5%,|%ssError| > 15%,%ssSigma/µ > 15%,%rampPeak > 120%,%rampPeak < 80%,ss > 105%,ss < 95%,ss > 115%,ss < 85%,ssPeak > 150%,T,TestID,MTIerror
+small,5,200,0,600,600,0,23200,6400,0.197,0.186,0.004,2.400,-7.016,1,0,0,0,3,0,85,0,0,0

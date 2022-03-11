@@ -1,0 +1,2 @@
+Mode,Cavity,Freqm,PMs,PMm,%Error,EMBm,EMBs,PPs,Ps,PMm,SD,Tolerance,%Tol/Mean,Mean+3SD,Mean-3SD,Max,Min,%Error,OOB,Size,Marki,5%
+mode small,0,5.000,200.000,187.000,-6.600,19.340,19.400,130.000,287.000,0.187,0.005,0.014,0.076,0.201,0.173,0.199,0.176,-6.600,0.000,100.000,22.000,1.000
